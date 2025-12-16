@@ -1,0 +1,11 @@
+## Getting Started
+1. Clone the repository: `git clone REPO_URL`.
+2. Set up the testing environment.
+3. Run tests using the command: `scripts/run_tests.sh`.
+
+---
+## Feedback
+Open an issue for discussions and improvements!
+
+## License
+[MIT License](LICENSE)
